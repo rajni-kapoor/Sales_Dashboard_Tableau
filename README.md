@@ -1,7 +1,7 @@
 # Sales_Dashboard_Tableau
 This interactive Tableau dashboard provides a dynamic view of sales performance and customer behavior across multiple dimensions. 
 
-You can view the dashboard here : [Click here](https://public.tableau.com/app/profile/rajni.kapoor/viz/Book2_17515749133690/CustomerDashboard)
+You can view the dashboard in Tableau Public here : [Click here](https://public.tableau.com/app/profile/rajni.kapoor/viz/Book2_17515749133690/CustomerDashboard)
 
 ## 📊 Sales & Customer Dashboard – README
 ### 🔍 Overview
