@@ -44,6 +44,9 @@ This interactive Tableau dashboard provides a dynamic view of sales performance 
 * Sketch the layout of dashboards and worksheets<br/>
 * Plan the placement of filters, legends, and interactive elements<br/><br/>
 
+https://github.com/rajni-kapoor/Sales_Dashboard_Tableau/blob/main/Screenshot%20(5).png?raw=true
+
+
 4. 🎨 Choose Colors<br/>
 * Use consistent and accessible color palettes<br/>
 * Apply contrasting shades to highlight key data points<br/><br/>
