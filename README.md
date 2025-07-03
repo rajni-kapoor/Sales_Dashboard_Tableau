@@ -1,8 +1,6 @@
 # Sales_Dashboard_Tableau
 This interactive Tableau dashboard provides a dynamic view of sales performance and customer behavior across multiple dimensions. 
 
-![image](https://github.com/user-attachments/assets/2710c611-c1c2-44c1-9b4f-60001000932f)
-
 You can view the dashboard here : [Click here](https://public.tableau.com/app/profile/rajni.kapoor/viz/Book2_17515749133690/CustomerDashboard)
 
 ## 📊 Sales & Customer Dashboard – README
@@ -46,12 +44,18 @@ This interactive Tableau dashboard provides a dynamic view of sales performance 
 * Sketch the layout of dashboards and worksheets<br/>
 * Plan the placement of filters, legends, and interactive elements<br/><br/>
 
-https://github.com/rajni-kapoor/Sales_Dashboard_Tableau/blob/main/Screenshot%20(5).png?raw=true
+![image](https://github.com/user-attachments/assets/8b3c4b40-acb9-49b8-9e47-683dad4a2581)
+
 
 
 4. 🎨 Choose Colors<br/>
 * Use consistent and accessible color palettes<br/>
 * Apply contrasting shades to highlight key data points<br/><br/>
+Colors
+Highest Point	:  #1da2d0 
+Lowest Point  :  #ff5500  
+Current Year  :  #25394f
+Previous Year  :  #c8bbc1
 
 👤 About the Creator<br/>
 Certified Tableau Data Analyst, actively learning and exploring Tableau through hands-on dashboard creation. This project showcases my journey in mastering data visualization and storytelling.
